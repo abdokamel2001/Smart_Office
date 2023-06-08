@@ -82,8 +82,3 @@ We would like to thank the following resources and libraries that contributed to
 - [Blynk](https://blynk.io/) - Internet of Things Platform
 - [NodeMCU](https://nodemcu.readthedocs.io/) - Lua-based firmware for IoT development
 
-## Contact
-
-For any inquiries or further information, please contact [the7ag22477@gmail.com](mailto:the7ag22477@gmail.com).
-
-Happy Smart Office-ing!
